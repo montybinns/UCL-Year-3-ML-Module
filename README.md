@@ -1,0 +1,1 @@
+Here lie five weekly coursework assignments correspondent to the first half of the term. In the second half of the term a project was completed over the remaining five weeks, the code is labelled 21019919.ipynb and the associated report 21019919_Report.pdf. Overall module grade was a high first (83.1%) with the project scoring 84%, one of the highest in the year.
